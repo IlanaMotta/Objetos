@@ -1,0 +1,4 @@
+cadeira
+lápis
+garrafa
+mesa
