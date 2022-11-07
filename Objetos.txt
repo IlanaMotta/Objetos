@@ -2,3 +2,4 @@ cadeira
 lápis
 garrafa
 mesa
+lousa
